@@ -31,7 +31,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+![image](https://github.com/user-attachments/assets/6a6068b4-d3f2-4e24-a8ce-1386fc13a825)
+
 </p>
 <p>
 Create and Azure VM running on Windows 10
