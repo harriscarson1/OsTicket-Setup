@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
 </p>
 <p>
 Create and Azure VM running on Windows 10
@@ -39,7 +39,7 @@ Create and Azure VM running on Windows 10
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%"/>
 </p>
 <p>
 Sign into the VM using Remote Desktop
@@ -47,7 +47,7 @@ Sign into the VM using Remote Desktop
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%"/>
 </p>
 <p>
 Download the required installation files for OsTicket on the VM and unzip the files to the desktop
@@ -55,7 +55,7 @@ Download the required installation files for OsTicket on the VM and unzip the fi
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%"/>
 </p>
 <p>
 Install IIS 
@@ -63,7 +63,7 @@ Install IIS
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%"/>
 </p>
 <p>
 
