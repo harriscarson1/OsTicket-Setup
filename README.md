@@ -251,3 +251,5 @@ Now we are at our osTicket Dashboard
   <img src="https://github.com/user-attachments/assets/73c2d42b-bc0d-40e3-aee3-9efe3822d557" height="80%" width="80%"/>
 </p>
 <br />
+
+In the next section [osTicket Configuration](https://github.com/harriscarson1/OsTicket-Configuration) we will go into how to configure this ticketing system for your specific organization
