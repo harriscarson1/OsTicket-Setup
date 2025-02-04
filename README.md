@@ -132,7 +132,7 @@ Then restart the IIS server by pressing the restart button
 </p>
 <br />
 <p>
-Next we need to coly the osTicket files into the IIS server, We need to copy the upload file from the osTicket installation files to C:\inetpub\wwwroot and then rename the file osTicket
+Next we need to copy the osTicket files into the IIS server, We need to copy the upload file from the osTicket installation files to C:\inetpub\wwwroot and then rename the file osTicket
   </p>
 <p>
   <img src="https://github.com/user-attachments/assets/69c0a72b-a3f0-4a2b-8fb0-f442602cdfd1" height="80%" width="80%"/>
